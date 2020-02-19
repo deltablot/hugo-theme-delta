@@ -1,6 +1,7 @@
 # FE Setup
 .bin/node_modules/
 /node_modules/
+static/dist
 src/node_modules/
 src/npm-debug.log.*
 npm-debug.log

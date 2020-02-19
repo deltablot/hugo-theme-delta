@@ -17,9 +17,10 @@
     "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.4.0",
     "css-loader": "^0.28.0",
-    "cssnano": "^3.10.0",
+    "cssnano": "^4.1.10",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^0.11.1",
+    "lodash.template": ">=4.5.0",
     "postcss": "^5.2.16",
     "postcss-cssnext": "^2.10.0",
     "postcss-import": "^9.1.0",
@@ -28,5 +29,9 @@
     "tachyons": "^4.9.1",
     "webpack": "^2.3.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
 }

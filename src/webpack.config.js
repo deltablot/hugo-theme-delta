@@ -31,7 +31,7 @@ module.exports = {
 
 	output: {
 		path: path.join(__dirname, './../static/dist'),
-		filename: 'js/[name].[chunkhash].js'
+		filename: 'js/[name].js'
 	},
 
 	resolve: {
