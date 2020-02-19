@@ -1,0 +1,20 @@
+{
+  "name": "hugo-theme-delta",
+  "version": "0.0.1",
+  "description": "Hugo theme for Deltablot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltablot/hugo-theme-delta"
+  },
+  "keywords": [
+    "hugo",
+    "gohugo"
+  ],
+  "author": "NicolasCARPi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deltablot/hugo-theme-delta/issues"
+  },
+  "homepage": "https://github.com/deltablot/hugo-theme-delta"
+}
